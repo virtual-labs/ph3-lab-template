@@ -12,6 +12,6 @@ jobs:
 
     - name: Read file
       run: |
-         git clone --depth=1 https://github.com/virtual-labs/cfg-vlabs-infra
-         cd cfg-vlabs-infra
+         git clone --depth=1 https://github.com/virtual-labs/ph3-lab-mgmt
+         cd ph3-lab-mgmt
          ls -R
