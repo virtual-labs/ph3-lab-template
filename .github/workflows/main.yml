@@ -7,8 +7,4 @@ on:
 jobs:
   call-workflow-A:
     uses: virtual-labs/vlabs-workflows/.github/workflows/ph3-lab-deploy-S3.yml@main
-    permissions:
-      issues: write
-    with:
-      username: vikramk20
     secrets: inherit
