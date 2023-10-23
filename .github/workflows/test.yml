@@ -10,7 +10,7 @@ jobs:
     - name: Checkout other repository
       uses: actions/checkout@v2
       with:
-        repository: viirtual-labs/cfg-vlabs-infra
+        repository: virtual-labs/cfg-vlabs-infra
         token: ${{ secrets.GITHUB_TOKEN }} # Replace with the access token with appropriate permissions
         ref: main # Replace with the branch or commit from which you want to access the file
 
