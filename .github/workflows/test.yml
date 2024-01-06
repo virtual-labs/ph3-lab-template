@@ -1,4 +1,4 @@
-name: production-deploymnet-lab-ph3
+name: test-deploymnet
 
 on:
   # Allows you to run this workflow manually from the Actions tab
