@@ -6,7 +6,7 @@ on:
 
 jobs:
   call-workflow-A:
-    uses: virtual-labs/vlabs-workflows/.github/workflows/ph3-lab-deploy-S3.yml@main
+    uses: virtual-labs/vlabs-workflows/.github/workflows/test-ph3-lab.yml@test
     permissions:
       issues: write
     with:
