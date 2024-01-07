@@ -83,25 +83,6 @@
       ]
     },
     {
-      "sect-name": "Stacks and Queues",
-      "experiments": [
-        {
-          "name": "Stacks and Queues",
-          "short-name": "stacks-queues",
-          "repo": "https://github.com/virtual-labs/exp-stacks-queues-iiith",
-          "tag": "v1.0.7",
-          "deploy": true
-        },
-        {
-          "name": "Infix to Postfix",
-          "short-name": "infix-postfix",
-          "repo": "https://github.com/virtual-labs/exp-infix-postfix-iiith",
-          "tag": "v1.0.7",
-          "deploy": true
-        }
-      ]
-    },
-    {
       "sect-name": "Searching",
       "experiments": [
         {
